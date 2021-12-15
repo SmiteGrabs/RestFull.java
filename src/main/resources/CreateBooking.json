@@ -1,7 +1,7 @@
 {
-  "firstname" : "Jim",
-  "lastname" : "Brown",
-  "totalprice" : 111,
+  "firstname" : "Jhon",
+  "lastname" : "Williams",
+  "totalprice" : 121,
   "depositpaid" : true,
   "bookingdates" : {
     "checkin" : "2018-01-01",
